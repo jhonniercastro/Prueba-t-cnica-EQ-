@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\pruebatecnicaeq\\pruebatecnicaeq\\views\\home.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|solutionrelative:pruebatecnicaeq\\pruebatecnicaeq\\views\\home.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|c:\\users\\jhonn\\source\\repos\\pruebatecnicaeq\\pruebatecnicaeq\\pruebatecnicaeq\\viewmodel\\vmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|solutionrelative:pruebatecnicaeq\\pruebatecnicaeq\\viewmodel\\vmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\pruebatecnicaeq\\pruebatecnicaeq\\viewmodel\\vmaddtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|solutionrelative:pruebatecnicaeq\\pruebatecnicaeq\\viewmodel\\vmaddtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\pruebatecnicaeq\\pruebatecnicaeq\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|solutionrelative:pruebatecnicaeq\\pruebatecnicaeq\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\pruebatecnicaeq\\pruebatecnicaeq\\views\\addtarea.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|solutionrelative:pruebatecnicaeq\\pruebatecnicaeq\\views\\addtarea.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\pruebatecnicaeq\\pruebatecnicaeq\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|solutionrelative:pruebatecnicaeq\\pruebatecnicaeq\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\pruebatecnicaeq\\pruebatecnicaeq\\viewmodel\\vmpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|solutionrelative:pruebatecnicaeq\\pruebatecnicaeq\\viewmodel\\vmpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\pruebatecnicaeq\\pruebatecnicaeq\\models\\mcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|solutionrelative:pruebatecnicaeq\\pruebatecnicaeq\\models\\mcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\pruebatecnicaeq\\pruebatecnicaeq\\models\\mlistatareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1BD83-E71F-4DB2-AF2B-3855D2C28741}|PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.csproj|solutionrelative:pruebatecnicaeq\\pruebatecnicaeq\\models\\mlistatareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VMpatron.cs",
+              "DocumentMoniker": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMpatron.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMpatron.cs",
+              "ToolTip": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMpatron.cs",
+              "RelativeToolTip": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMpatron.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:16:19.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Models\\MCategorias.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Models\\MCategorias.cs",
+              "ToolTip": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Models\\MCategorias.cs",
+              "RelativeToolTip": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Models\\MCategorias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:16:17.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MListaTareas.cs",
+              "DocumentMoniker": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Models\\MListaTareas.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Models\\MListaTareas.cs",
+              "ToolTip": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Models\\MListaTareas.cs",
+              "RelativeToolTip": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Models\\MListaTareas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:16:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIA7wCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:16:15.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\Home.xaml.cs",
+              "RelativeToolTip": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\Home.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:38:57.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddTarea.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\AddTarea.xaml.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\AddTarea.xaml.cs",
+              "ToolTip": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\AddTarea.xaml.cs",
+              "RelativeToolTip": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\AddTarea.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:18:19.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\Home.xaml",
+              "RelativeDocumentMoniker": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\Home.xaml",
+              "ToolTip": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\Home.xaml",
+              "RelativeToolTip": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\Views\\Home.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T06:18:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VMAddtarea.cs",
+              "DocumentMoniker": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMAddtarea.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMAddtarea.cs",
+              "ToolTip": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMAddtarea.cs",
+              "RelativeToolTip": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMAddtarea.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAtwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:15:08.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VMHome.cs",
+              "DocumentMoniker": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMHome.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMHome.cs",
+              "ToolTip": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMHome.cs",
+              "RelativeToolTip": "PruebaTecnicaEQ\\PruebaTecnicaEQ\\ViewModel\\VMHome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:11:46.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

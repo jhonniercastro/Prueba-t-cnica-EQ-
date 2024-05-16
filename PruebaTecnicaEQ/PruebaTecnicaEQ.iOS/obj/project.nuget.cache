@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7VmYzvZ8pgbT+s4OZoXrFUgy0OQ39tK5JmvLJ16D7z8MRc3HmDpHI+rcM3H74EsVyepuyGvNVafsPS95/g4Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhonn\\source\\repos\\PruebaTecnicaEQ\\PruebaTecnicaEQ\\PruebaTecnicaEQ.iOS\\PruebaTecnicaEQ.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhonn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jhonn\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\jhonn\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jhonn\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\jhonn\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

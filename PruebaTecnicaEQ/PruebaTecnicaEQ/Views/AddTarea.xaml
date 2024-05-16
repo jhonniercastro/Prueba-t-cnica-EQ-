@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PruebaTecnicaEQ.Views.AddTarea">
+
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <!-- Título de la página -->
+            <Label Text="Agregar nueva tarea"
+                   FontSize="Large"
+                   HorizontalOptions="Center"
+                   Margin="0,10,0,20" />
+
+            <!-- Entrada para el nombre de la tarea -->
+            <Entry Placeholder="Nombre de la tarea"
+                   Text="{Binding NombreTarea}"
+                   PlaceholderColor="White"
+                   TextColor="White" />
+
+            <!-- Entrada para la descripción de la tarea -->
+            <Entry Placeholder="Descripción de la tarea"
+                   Text="{Binding DescripcionTarea}"
+                   PlaceholderColor="White"
+                   TextColor="White" />
+
+            <!-- Selector de categoría -->
+            <Picker Title="Seleccione la categoría"
+                    TitleColor="White"
+                    TextColor="White"
+                    SelectedItem="{Binding categoriaSeleccionada}"
+                    ItemsSource="{Binding categorias}"
+                    ItemDisplayBinding="{Binding category}" />
+
+            <!-- Botón para guardar -->
+            <Button Text="Guardar"
+                    Command="{Binding GuardarTareaCommand}"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="Center"
+                    TextTransform="None" />
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

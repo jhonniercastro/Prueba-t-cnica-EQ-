@@ -1,0 +1,16 @@
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\bin\Debug\netstandard2.0\PruebaTecnicaEQ.deps.json
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\bin\Debug\netstandard2.0\PruebaTecnicaEQ.dll
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\bin\Debug\netstandard2.0\ref\PruebaTecnicaEQ.dll
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\bin\Debug\netstandard2.0\PruebaTecnicaEQ.pdb
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\PruebaTecnicaEQ.csproj.AssemblyReference.cache
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\PruebaTecnicaEQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\PruebaTecnicaEQ.AssemblyInfoInputs.cache
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\PruebaTecnicaEQ.AssemblyInfo.cs
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\PruebaTecnicaEQ.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\PruebaTecnicaEQ.dll
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\refint\PruebaTecnicaEQ.dll
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\PruebaTecnicaEQ.pdb
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\Views\AddTarea.xaml.g.cs
+C:\Users\jhonn\source\repos\PruebaTecnicaEQ\PruebaTecnicaEQ\PruebaTecnicaEQ\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
